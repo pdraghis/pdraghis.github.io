@@ -59,4 +59,4 @@ Stay tuned for stories and photos on my [Travel page](Travel.md).
 ---
 
 ## Contact
-Feel free to reach out to me at [pdraghis@mit.edu] or connect with me on [LinkedIn](https://www.linkedin.com).
+Feel free to reach out to me at "pdraghis@mit.edu" or connect with me on [LinkedIn](https://www.linkedin.com).
