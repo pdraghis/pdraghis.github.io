@@ -6,20 +6,6 @@
     <title>Research</title>
 
 
-<style>
-/* Override the wrapper width */
-.content {
-    max-width: none;  /* Remove the maximum width constraint */
-    width: 80%;      /* Set width to full screen */
-}
-
-/* Extend the width of the text boxes */
-.text-box {
-    width: 100%;      /* Set text boxes to full width */
-    max-width: none;  /* Remove any existing width constraints */
-    padding: 20px;    /* Optional: Add padding for readability */
-}
-</style>
 
     
     <!-- MathJax for LaTeX rendering -->
@@ -35,14 +21,17 @@
 
         .content {
             display: flex;
+            max-width: none;  /* Remove the maximum width constraint */
+            width: 80%;      /* Set width to full screen */
             flex-wrap: wrap;
             justify-content: space-around;
             margin: 20px;
         }
 
         .text-block {
-            width: 45%;
+            width: 75%;
             margin: 20px;
+            max-width: none; * Remove any existing width constraints */
             text-align: justify;
         }
 
