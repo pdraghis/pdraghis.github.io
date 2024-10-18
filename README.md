@@ -23,18 +23,10 @@
 </div>
 
 
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://github.com/pdraghis/pdraghis.github.io/blob/main/Draghis_square_optimized_1000.jpg">
- <source media="(prefers-color-scheme: light)" srcset="https://github.com/pdraghis/pdraghis.github.io/blob/main/Draghis_square_optimized_1000.jpg">
- <img alt="YOUR-ALT-TEXT" src="https://github.com/pdraghis/pdraghis.github.io/blob/main/Draghis_square_optimized_1000.jpg">
-</picture>
-
-
-
 
 Feel free to explore the following pages:
 
-- [CV](https://github.com/pdraghis/pdraghis/blob/main/cv-Paul%20Draghis_complete.pdf)
+- [CV](cv-Paul Draghis_complete.pdf)
 - [Research](#research)
 - [Travel](#travel)
 
