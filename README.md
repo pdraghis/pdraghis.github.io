@@ -15,7 +15,7 @@
 
 ## Profile
 <div style="display: flex; align-items: left;">
-  <img src="https://github.com/pdraghis97/pdraghis97.github.io/blob/main/Draghis_square_optimized_1000.jpg" alt="Profile Image" width="200" height="200" style="border-radius:50%; margin-right: 20px;">
+  <img src="https://github.com/pdraghis/pdraghis.github.io/blob/main/Draghis_square_optimized_1000.jpg" alt="Profile Image" width="200" height="200" style="border-radius:50%; margin-right: 20px;">
   
   <div style="text-align: center;">
     Hello! I am Dr. Paul Draghis. Welcome to my personal website. This site is currently under construction. For my previous website, please see https://sites.google.com/umich.edu/pdraghis/ 
@@ -24,9 +24,9 @@
 
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://github.com/pdraghis97/pdraghis97.github.io/blob/main/Draghis_square_optimized_1000.jpg">
- <source media="(prefers-color-scheme: light)" srcset="https://github.com/pdraghis97/pdraghis97.github.io/blob/main/Draghis_square_optimized_1000.jpg">
- <img alt="YOUR-ALT-TEXT" src="https://github.com/pdraghis97/pdraghis97.github.io/blob/main/Draghis_square_optimized_1000.jpg">
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/pdraghis/pdraghis.github.io/blob/main/Draghis_square_optimized_1000.jpg">
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/pdraghis/pdraghis.github.io/blob/main/Draghis_square_optimized_1000.jpg">
+ <img alt="YOUR-ALT-TEXT" src="https://github.com/pdraghis/pdraghis.github.io/blob/main/Draghis_square_optimized_1000.jpg">
 </picture>
 
 
@@ -34,7 +34,7 @@
 
 Feel free to explore the following pages:
 
-- [CV](https://github.com/pdraghis97/pdraghis/blob/main/cv-Paul%20Draghis_complete.pdf)
+- [CV](https://github.com/pdraghis/pdraghis/blob/main/cv-Paul%20Draghis_complete.pdf)
 - [Research](#research)
 - [Travel](#travel)
 
