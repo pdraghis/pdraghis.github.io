@@ -22,10 +22,11 @@
         .content {
             display: flex;
             max-width: none;  /* Remove the maximum width constraint */
-            width: 180%;      /* Set width to full screen */
+            width: 300%;      /* Set width to full screen */
             flex-wrap: wrap;
             justify-content: space-around;
             margin: 20px;
+            align-items: center;
         }
 
         .text-block {
