@@ -19,13 +19,25 @@
             padding: 0;
         }
 
-        .content {
+         <!--.content {
             display: flex;
             max-width: none;  /* Remove the maximum width constraint */
             width: 300%;      /* Set width to full screen */
             flex-wrap: wrap;
             justify-content: space-around;
             margin: 20px auto;
+            align-items: center;
+        }  -->
+        .content {
+            display: flex;
+            max-width: none;
+            width: 300%;           /* Keep the wide width */
+            flex-wrap: wrap;
+            justify-content: center;  /* Center items within the flex container */
+            margin: 0;                /* Reset margin */
+            position: relative;        /* Make positioning easier */
+            left: 50%;                 /* Move the content halfway across the page */
+            transform: translateX(-50%); /* Shift the content left by 50% of its width to center it */
             align-items: center;
         }
 
@@ -75,7 +87,7 @@
 </head>
 <body>
 
-    <h1>Research - changed</h1>
+    <h1>Research</h1>
 
     <div class="content">
         <!-- Block 1 -->
