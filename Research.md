@@ -40,7 +40,7 @@
         }
 
         .figure-block {
-            width: 45%;
+            width: 25%;
             margin: 20px;
         }
 
