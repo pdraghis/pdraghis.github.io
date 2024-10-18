@@ -43,7 +43,7 @@ I have worked on a variety of research projects, ranging from [topic A] to [topi
 - **Project 1**: Brief description.
 - **Project 2**: Brief description.
 
-Check out my [Research page](#research-page) for more details.
+Check out my [Research Page](Research.md) for more details.
 
 ---
 
