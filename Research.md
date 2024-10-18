@@ -36,8 +36,6 @@
             justify-content: center;  /* Center items within the flex container */
             margin: 0;                /* Reset margin */
             position: relative;        /* Make positioning easier */
-            left: 50%;                 /* Move the content halfway across the page */
-            transform: translateX(-50%); /* Shift the content left by 50% of its width to center it */
             align-items: center;
         }
 
