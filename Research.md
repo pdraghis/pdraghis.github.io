@@ -8,9 +8,9 @@
 
 <style>
 /* Override the wrapper width */
-.wrapper {
+.content {
     max-width: none;  /* Remove the maximum width constraint */
-    width: 100%;      /* Set width to full screen */
+    width: 80%;      /* Set width to full screen */
 }
 
 /* Extend the width of the text boxes */
@@ -20,18 +20,6 @@
     padding: 20px;    /* Optional: Add padding for readability */
 }
 </style>
-
-<div class="wrapper">
-    <div class="text-box">
-        ## Research Project 1
-        Details about the research...
-    </div>
-    <div class="text-box">
-        ## Research Project 2
-        Details about the research...
-    </div>
-</div>
-
 
     
     <!-- MathJax for LaTeX rendering -->
