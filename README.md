@@ -15,7 +15,7 @@
 
 ## Profile
 <div style="display: flex; align-items: left;">
-  <img src="https://github.com/pdraghis/pdraghis.github.io/Draghis_square_optimized_1000.jpg" alt="Profile Image" width="200" height="200" style="border-radius:50%; margin-right: 20px;">
+  <img src="Draghis_square.jpg" alt="Profile Image" width="200" height="200" style="border-radius:50%; margin-right: 20px;">
   
   <div style="text-align: center;">
     Hello! I am Dr. Paul Draghis. Welcome to my personal website. This site is currently under construction. For my previous website, please see https://sites.google.com/umich.edu/pdraghis/ 
