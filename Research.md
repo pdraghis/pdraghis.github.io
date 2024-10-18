@@ -5,10 +5,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Research</title>
 
-    /* Override the wrapper width */
+
+<style>
+/* Override the wrapper width */
 .wrapper {
     max-width: none;  /* Remove the maximum width constraint */
-    width: 100%;      /* Set width to cover the entire screen */
+    width: 100%;      /* Set width to full screen */
 }
 
 /* Extend the width of the text boxes */
@@ -17,6 +19,19 @@
     max-width: none;  /* Remove any existing width constraints */
     padding: 20px;    /* Optional: Add padding for readability */
 }
+</style>
+
+<div class="wrapper">
+    <div class="text-box">
+        ## Research Project 1
+        Details about the research...
+    </div>
+    <div class="text-box">
+        ## Research Project 2
+        Details about the research...
+    </div>
+</div>
+
 
     
     <!-- MathJax for LaTeX rendering -->
