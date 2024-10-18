@@ -36,7 +36,7 @@
             justify-content: center;  /* Center items within the flex container */
             margin: 0;                /* Reset margin */
             position: relative;        /* Make positioning easier */
-            transform: translateX(-50%); /* Shift the content left by 50% of its width to center it */
+            left: 50%;                 /* Move the content halfway across the page */
             align-items: center;
         }
 
@@ -86,7 +86,7 @@
 </head>
 <body>
 
-    <h1>Research</h1>
+    <h1>Research - changed</h1>
 
     <div class="content">
         <!-- Block 1 -->
