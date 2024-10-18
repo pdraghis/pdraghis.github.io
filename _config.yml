@@ -19,7 +19,7 @@ plugins:
 
 title: Dr. Paul Draghis
 description: Personal Website
-
+email: pdraghis@mit.edu
 
 # Handling Reading
 safe                : false
@@ -78,3 +78,15 @@ kramdown:
   hard_wrap         : false
   footnote_nr       : 1
   show_warnings     : false
+
+  author:
+  name   : "Felipe Alarcón Peña"
+  avatar : "/assets/images/felipe-alarcon.jpeg"
+  bio    : "  I am a Ph.D. in Astronomy. I am mostly interested in the discovery of protoplanets and the chemistry of planet formation."
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/Falarconp/"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:falarcon@umich.edu"
