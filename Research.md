@@ -4,6 +4,20 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Research</title>
+
+    /* Override the wrapper width */
+.wrapper {
+    max-width: none;  /* Remove the maximum width constraint */
+    width: 100%;      /* Set width to cover the entire screen */
+}
+
+/* Extend the width of the text boxes */
+.text-box {
+    width: 100%;      /* Set text boxes to full width */
+    max-width: none;  /* Remove any existing width constraints */
+    padding: 20px;    /* Optional: Add padding for readability */
+}
+
     
     <!-- MathJax for LaTeX rendering -->
     <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
