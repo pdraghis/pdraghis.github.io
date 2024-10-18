@@ -15,15 +15,6 @@ collections:
 
   
 remote_theme: pages-themes/midnight@v0.2.0
-
-# Custom CSS
-#markdown: kramdown
-#highlighter: rouge
-
-#sass:
-#  style: compressed # Optional, if using Sass
-#include:
-#  - assets/css/style.css
   
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
