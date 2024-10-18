@@ -36,7 +36,7 @@
             justify-content: center;  /* Center items within the flex container */
             margin: 0;                /* Reset margin */
             position: relative;        /* Make positioning easier */
-            left: 50%;                 /* Move the content halfway across the page */
+            left: -50%;                 /* Move the content halfway across the page */
             align-items: center;
         }
 
