@@ -33,7 +33,7 @@
         }
 
         .text-block {
-            width: 75%;
+            width: 45%;
             margin: 20px;
             max-width: none; * Remove any existing width constraints */
             text-align: justify;
