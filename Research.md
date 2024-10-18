@@ -25,7 +25,7 @@
             width: 300%;      /* Set width to full screen */
             flex-wrap: wrap;
             justify-content: space-around;
-            margin: 20px;
+            margin: 20px auto;
             align-items: center;
         }
 
