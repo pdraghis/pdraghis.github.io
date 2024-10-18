@@ -79,3 +79,9 @@ kramdown:
   footnote_nr       : 1
   show_warnings     : false
 
+<style>
+    .container, .wrapper {
+        max-width: none !important; /* Remove the width constraint */
+        width: 90%; /* Set to 90% or full-width depending on preference */
+    }
+</style>
