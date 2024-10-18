@@ -1,0 +1,48 @@
+/* Ensure the body and container use full screen width */
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+
+/* Override any container widths set by the theme */
+.container, .content {
+    width: 90%; /* Adjust to 100% if needed */
+    max-width: none; /* Remove any theme-set max-width */
+    margin: 0 auto; /* Center content */
+}
+
+/* Ensure the block containers extend to full width */
+.block-container {
+    display: flex;
+    align-items: center;
+    margin-bottom: 40px;
+}
+
+.text-block {
+    width: 65%; /* Adjust width as necessary */
+    text-align: justify;
+    margin: 20px;
+}
+
+.figure-block {
+    width: 30%; /* Adjust width for the image block */
+    margin: 20px;
+}
+
+.figure-block img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
+
+/* Handle small screens */
+@media (max-width: 768px) {
+    .block-container {
+        flex-direction: column;
+    }
+
+    .text-block, .figure-block {
+        width: 90%;
+    }
+}
