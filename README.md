@@ -26,7 +26,7 @@
 
 Feel free to explore the following pages:
 
-- [CV](cv-Paul Draghis_complete.pdf)
+- [CV](#cv)
 - [Research](#research)
 - [Travel](#travel)
 
@@ -34,7 +34,7 @@ Feel free to explore the following pages:
 
 ## CV
 Here you can include a summary of your academic and professional background.  
-For my full CV, click [here](path-to-cv.pdf).
+For my full CV, click [here](cv-Paul Draghis_complete.pdf).
 
 ---
 
