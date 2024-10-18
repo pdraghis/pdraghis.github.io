@@ -18,7 +18,7 @@
   <img src="Draghis_square.jpg" alt="Profile Image" width="200" height="200" style="border-radius:50%; margin-right: 20px;">
   
   <div style="text-align: center;">
-    Hello! I am Dr. Paul Draghis. Welcome to my personal website. This site is currently under construction. For my previous website, please see https://sites.google.com/umich.edu/pdraghis/ 
+    Hello! I am Dr. Paul Draghis. Welcome to my personal website. This site is currently under construction. In the meantime, please see [my previous website](https://sites.google.com/umich.edu/pdraghis/)  
   </div>
 </div>
 
@@ -54,9 +54,9 @@ Some of my favorite destinations:
 - Place B
 - Place C
 
-Stay tuned for stories and photos on my [Travel page](#travel-page).
+Stay tuned for stories and photos on my [Travel page](Travel.md).
 
 ---
 
 ## Contact
-Feel free to reach out to me at [Your Email] or connect with me on [LinkedIn](https://www.linkedin.com).
+Feel free to reach out to me at [pdraghis@mit.edu] or connect with me on [LinkedIn](https://www.linkedin.com).
