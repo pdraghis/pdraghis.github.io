@@ -22,7 +22,7 @@
         .content {
             display: flex;
             max-width: none;
-            width: 300%;           /* Keep the wide width */
+            width: 200%;           /* Keep the wide width */
             flex-wrap: wrap;
             justify-content: center;  /* Center items within the flex container */
             margin: 0;                /* Reset margin */
