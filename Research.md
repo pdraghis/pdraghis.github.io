@@ -1,26 +1,8 @@
 ---
-layout: fullwidth
+layout: default
 title: Research
+page-class: research-page
 ---
-
-<!-- ─────────── CUSTOM OVERRIDES ─────────── -->
-<style>
-  /* 1) Hide the GitHub‐repo button in the header */
-  a[href*="github.com/pdraghis97"],      /* any link to your repo */
-  .header__extra {                       /* the Midnight theme’s “extra” slot */
-    display: none !important;
-  }
-
-  /* 2) Let the wrapper & content go full‐width */
-  .wrapper,
-  .content {
-    max-width: none !important;
-    width: 100%    !important;
-    margin: 0 auto !important;
-    padding: 0 20px !important;  /* optional “breathing room” at the edges */
-  }
-</style>
-<!-- ───────────────────────────────────────── -->
 
 # Research
 
