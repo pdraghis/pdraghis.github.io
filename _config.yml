@@ -12,7 +12,8 @@ collections:
   posts:
     output          : true
 
-
+include:
+  - assets/css/aaaastyle.css
   
 remote_theme: pages-themes/midnight@v0.2.0
   
