@@ -1,3 +1,18 @@
+/* 1) Hide the GitHub-repo link in the header */
+a[href*="github.com/pdraghis97"][class*="repo"],    /* any link matching your repo URL */
+.header__extra {                                      /* midnight theme’s “extra” right-side slot */
+  display: none !important;
+}
+
+/* 2) Let the main content area go full width */
+.content, .wrapper {
+  max-width: none !important;
+  width: 100%    !important;
+  margin: 0 auto !important;
+  padding: 0 20px;    /* optional page padding */
+}
+
+
 /* Ensure the body and container use full screen width */
 body {
     margin: 0;
@@ -5,12 +20,12 @@ body {
     font-family: Arial, sans-serif;
 }
 
-/* Override any container widths set by the theme */
+/* /* Override any container widths set by the theme */
 .container, .content {
     width: 90%; /* Adjust to 100% if needed */
     max-width: none; /* Remove any theme-set max-width */
     margin: 0 auto; /* Center content */
-}
+} */
 
 /* Ensure the block containers extend to full width */
 .block-container {
