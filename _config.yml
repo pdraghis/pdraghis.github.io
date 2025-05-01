@@ -12,8 +12,7 @@ collections:
   posts:
     output          : true
 
-include:
-  - assets/css/aaaastyle.css
+
   
 remote_theme: pages-themes/midnight@v0.2.0
   
@@ -81,4 +80,7 @@ kramdown:
   hard_wrap         : false
   footnote_nr       : 1
   show_warnings     : false
+
+  include:
+  - assets/css/aaaastyle.css
 
