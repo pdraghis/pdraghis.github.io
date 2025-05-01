@@ -53,7 +53,7 @@ incremental         : false
 detach              : false
 port                : 4000
 host                : 127.0.0.1
-baseurl             : "" # does not include hostname
+baseurl             : "pdraghis.github.io" # does not include hostname
 show_dir_listing    : false
 
 # Outputting
@@ -81,6 +81,6 @@ kramdown:
   footnote_nr       : 1
   show_warnings     : false
 
-  include:
+include:
   - assets/css/aaaastyle.css
 
