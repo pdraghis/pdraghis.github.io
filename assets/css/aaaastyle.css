@@ -12,6 +12,27 @@ a[href*="github.com/pdraghis97"][class*="repo"],    /* any link matching your re
   padding: 0 20px;    /* optional page padding */
 }
 
+body.research-page {
+  /* Expand width */
+  .wrapper,
+  .container,
+  .content {
+    max-width: 90% !important;
+    width: 100% !important;
+    margin: 0 auto !important;
+  }
+
+  /* Hide GitHub button */
+  a[href*="github.com"],
+  .header__extra {
+    display: none !important;
+  }
+
+  /* Optional: Add padding */
+  .content {
+    padding: 1rem 2rem;
+  }
+}
 
 /* Ensure the body and container use full screen width */
 body {
