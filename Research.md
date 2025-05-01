@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Research
-page-class: research-page
 ---
 
 # Research
