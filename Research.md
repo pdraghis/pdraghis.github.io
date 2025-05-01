@@ -3,6 +3,23 @@ layout: default
 title: Research
 ---
 
+<style>
+  /* Hide the GitHub button in the header */
+  .header__extra,
+  a[href*="github.com/pdraghis97"] {
+    display: none !important;
+  }
+  /* Blow out the width of the wrapper/content */
+  .wrapper,
+  .container,
+  .content {
+    max-width: none    !important;
+    width: 100%        !important;
+    margin: 0 auto     !important;
+    padding: 0 20px    !important; /* Optional side‐padding */
+  }
+</style>
+
 # Research
 
 <!-- You can keep using HTML here for fine‐grained control -->
