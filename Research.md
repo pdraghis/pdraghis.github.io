@@ -1,4 +1,5 @@
 ---
+layout: fullwidth
 title: Research
 ---
 
